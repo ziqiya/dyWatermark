@@ -1,2 +1,2 @@
-# dyWatermark
-抖音视频去水印教程
+# usefulShortcut
+有用的快捷指令合集分享
